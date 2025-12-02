@@ -45,8 +45,9 @@ app.use((err, req, res, next) => {
 });
 
 // Iniciar servidor
+
 app.listen(PORT, () => {
-  console.log(`🌟 Servidor ejecutándose en puerto ${PORT}`);
+  console.log(`Server running on port ${PORT}`);
 });
 
 module.exports = app;
