@@ -157,7 +157,7 @@ A continuación, se presenta el nuevo proceso de desarrollo paso a paso propuest
 
     - Pruebas end-to-end para flujos completos y críticos.
 
-- Pipeline CI/CD: Automatizar implementación, pruebas y despliegues mediante Azure DevOps.
+- Pipeline CI/CD: Automatizar implementación, pruebas y despliegues mediante herramientas de despliegue continuo.
 
 - Ajustes en la arquitectura para soportar la integración futura de funcionalidades críticas como:
 

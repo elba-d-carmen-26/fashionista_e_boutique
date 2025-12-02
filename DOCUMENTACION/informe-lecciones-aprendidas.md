@@ -43,7 +43,7 @@ La validación de calidad del proyecto incluyó los siguientes aspectos:
 -  Validación de completitud y calidad de los artefactos (documentación) generados durante el proyecto, teniendo en cuenta los siguientes criterios: 
 
     - Nivel de detalle técnico a un punto medio entre lo conceptual y lo operativo.
-    - Documentación compatible Azure DevOps, GitHub y SharePoint.
+    - Documentación compatible GitHub y SharePoint.
     - Elaboración ágil y focalizada (entregas de documentación incrementales en paralelo con la implementación del proyecto)-
     - Lenguaje preciso y claro, adaptado a los distintos públicos (Desarrolladores, QA, Administradores del sistema, Product Owner, Scrum Master, Diseñadores, Clientes, Usuarios y Stakeholders).
     - Estructura clara, respetando normas ortográficas, gramaticales y de redacción.

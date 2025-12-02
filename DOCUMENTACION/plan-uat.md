@@ -80,7 +80,7 @@ Validar que la plataforma Fashionista e-Boutique cumple con los criterios de ace
 
 ## 7. Gestión de Incidencias
 
-- Todas las incidencias se registran en **Azure DevOps**
+- Todas las incidencias se registran en 
 - Severidad:
   - **Crítica:** Bloquea operación principal → Corrección inmediata.
   - **Alta:** Impacta flujo primario → Corrección antes de cierre UAT.
