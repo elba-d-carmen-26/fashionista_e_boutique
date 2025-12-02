@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- Configuración básica del documento HTML -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fashionista e-Boutique</title>
+    
+    <!-- Hojas de estilo: CSS personalizado y Font Awesome para iconos -->
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- Roboto (Material Design) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+        <!-- HEADER: Barra de navegación principal -->
+        <header class="header">
+            <nav class="navbar">
+                <!-- Logo de la tienda -->
+                <div class="nav-logo">
+                    <h1>Fashionista e-Boutique</h1>
+                </div>
+                
+                <!-- Menú de navegación principal -->
+                <ul class="nav-menu">
+                    <!-- Enlace a la página de inicio -->
+                    <li class="nav-item">
+                        <a href="#home" class="nav-link">Inicio</a>
+                    </li>
+                    <!-- Enlace al catálogo de productos -->
+                    <li class="nav-item">
+                        <a href="#catalog" class="nav-link">Catálogo</a>
+                    </li>
+                    <!-- Enlace a la página de contacto -->
+                    <li class="nav-item">
+                        <a href="#contact" class="nav-link">Contacto</a>
+                    </li>
+                    <!-- Botón para abrir modal de login/registro -->
+                    <li class="nav-item">
+                        <a href="#" class="nav-link" id="loginBtn">Iniciar Sesión</a>
+                    </li>
+                    <!-- Botón del carrito de compras con contador -->
+                    <li class="nav-item">
+                        <a href="#" class="nav-link cart-link" id="cartBtn">
+                            <i class="fas fa-shopping-cart"></i>
+                            <span class="cart-count" id="cartCount">0</span>
+                        </a>
+                    </li>
+                </ul>
+                
+                <!-- Menú hamburguesa para dispositivos móviles -->
+                <div class="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </nav>
+        </header>
+
+    <!-- CONTENIDO PRINCIPAL DE LA APLICACIÓN -->
+    <main class="main-content">
+        
+        <!-- SECCIÓN HOME: Página de inicio con hero banner -->
+        <section id="home" class="hero">
+            <div class="hero-content">
+                <h2>Bienvenida a Fashionista e-Boutique</h2>
+                <p>Descubre la moda femenina más exclusiva y elegante. Nuestra colección está diseñada para mujeres que buscan estilo, calidad y sofisticación.</p>
+                <!-- Botón call-to-action para navegar al catálogo -->
+                <div class="hero-buttons">
+                    <button class="cta-button" onclick="showCatalog()">Explorar Catálogo</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECCIÓN CATÁLOGO: Página principal de productos -->
+        <section id="catalog" class="catalog-section" style="display: none;">
+            <!-- Encabezado del catálogo -->
+            <div class="catalog-header">
+                <h2>Nuestro Catálogo</h2>
+                <p>Explora nuestra exclusiva colección de moda femenina</p>
+            </div>
+
+            <!-- SISTEMA DE BÚSQUEDA Y FILTROS -->
+            <div class="filters-container">
+                <!-- Barra de búsqueda por texto -->
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Buscar productos..." class="search-input">
+                    <button onclick="searchProducts()" class="search-btn">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+                
+                <!-- Filtros por palabras clave en el título -->
+                <div class="filters">
+                    <!-- Filtro por tipo de prenda -->
+                    <select id="categoryFilter" class="filter-select">
+                        <option value="">Todos los tipos</option>
+                        <option value="vestido">Vestidos</option>
+                        <option value="blusa">Blusas</option>
+                        <option value="pantalón">Pantalones</option>
+                        <option value="falda">Faldas</option>
+                    </select>
+                    
+                    <!-- Filtro por color -->
+                    <select id="colorFilter" class="filter-select">
+                        <option value="">Todos los colores</option>
+                        <option value="negro">Negro</option>
+                        <option value="blanco">Blanco</option>
+                        <option value="azul">Azul</option>
+                        <option value="rojo">Rojo</option>
+                        <option value="rosa">Rosa</option>
+                    </select>
+                    
+                    <!-- Filtro por rango de precio -->
+                    <select id="priceFilter" class="filter-select">
+                        <option value="">Todos los precios</option>
+                        <option value="0-200000">Hasta $200.000</option>
+                        <option value="200000-300000">$200.000 - $300.000</option>
+                        <option value="300000-400000">$300.000 - $400.000</option>
+                        <option value="400000-500000">$400.000 - $500.000</option>
+                        <option value="500000+">Más de $500.000</option>
+                    </select>
+                    
+                    <!-- Botón para limpiar todos los filtros -->
+                    <button onclick="clearFilters()" class="clear-filters-btn">Limpiar Filtros</button>
+                </div>
+            </div>
+
+            <!-- GRID DE PRODUCTOS: Contenedor donde se muestran los productos -->
+            <div class="products-grid" id="productsGrid">
+                <!-- Los productos se cargan dinámicamente aquí mediante JavaScript -->
+            </div>
+        </section>
+
+        <!-- Eliminados modales duplicados para evitar desorden visual -->
+
+        <!-- SECCIÓN CONTACTO: Formulario de contacto para consultas -->
+        <section id="contact" class="contact-section" style="display: none;">
+            <div class="contact-container">
+                <h2>Contáctanos</h2>
+                <p>¿Tienes alguna pregunta? Nos encantaría escucharte</p>
+                
+                <!-- Formulario de contacto con validación -->
+                <form id="contactForm" class="contact-form">
+                    <div class="form-group">
+                        <label for="contactName">Nombre completo</label>
+                        <input type="text" id="contactName" name="name" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="contactEmail">Correo electrónico</label>
+                        <input type="email" id="contactEmail" name="email" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="contactSubject">Asunto</label>
+                        <input type="text" id="contactSubject" name="subject" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="contactMessage">Mensaje</label>
+                        <textarea id="contactMessage" name="message" rows="5" required></textarea>
+                    </div>
+                    
+                    <!-- Botón de envío del formulario -->
+                    <button type="submit" class="submit-btn">Enviar Mensaje</button>
+                </form>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- MODAL DE LOGIN: Ventana emergente para autenticación de usuarios -->
+    <div id="loginModal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <!-- Encabezado del modal con pestañas y botón de cierre -->
+            <div class="modal-header">
+                <div class="login-tabs">
+                    <button class="tab-btn active" onclick="showLoginForm()">Iniciar Sesión</button>
+                    <button class="tab-btn" onclick="showRegisterForm()">Registrarse</button>
+                </div>
+                <span class="close" onclick="closeLoginModal()">&times;</span>
+            </div>
+            
+            <div class="modal-body">
+                <!-- FORMULARIO DE INICIO DE SESIÓN -->
+                <form id="loginForm" class="auth-form">
+                    <h3>Iniciar Sesión</h3>
+                    <div class="form-group">
+                        <label for="loginEmail">Correo electrónico</label>
+                        <input type="email" id="loginEmail" name="email" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="loginPassword">Contraseña</label>
+                        <input type="password" id="loginPassword" name="password" required>
+                    </div>
+                    
+                    <!-- Botón para enviar datos de login -->
+                    <button type="submit" class="submit-btn">Iniciar Sesión</button>
+                </form>
+                
+                <!-- FORMULARIO DE REGISTRO DE NUEVOS USUARIOS -->
+                <form id="registerForm" class="auth-form" style="display: none;">
+                    <h3>Crear Cuenta</h3>
+                    <div class="form-group">
+                        <label for="registerName">Nombre completo</label>
+                        <input type="text" id="registerName" name="name" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="registerEmail">Correo electrónico</label>
+                        <input type="email" id="registerEmail" name="email" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="registerPassword">Contraseña</label>
+                        <input type="password" id="registerPassword" name="password" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="confirmPassword">Confirmar contraseña</label>
+                        <input type="password" id="confirmPassword" name="confirmPassword" required>
+                    </div>
+                    
+                    <!-- Botón para crear nueva cuenta -->
+                    <button type="submit" class="submit-btn">Crear Cuenta</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    </main>
+
+    <!-- MODAL DEL CARRITO DE COMPRAS: Ventana emergente para gestionar productos -->
+    <div id="cartModal" class="modal">
+        <div class="modal-content">
+            <!-- Encabezado del modal con título y botón de cierre -->
+            <div class="modal-header">
+                <h3>Carrito de Compras</h3>
+                <span class="close" onclick="closeCart()">&times;</span>
+            </div>
+            <div class="modal-body">
+                <!-- Contenedor donde se muestran los productos del carrito -->
+                <div id="cartItems" class="cart-items">
+                    <!-- Los productos del carrito se cargan dinámicamente aquí -->
+                </div>
+                <!-- Sección que muestra el total del carrito -->
+                <div class="cart-total">
+                    <h4>Total: €<span id="cartTotal">0.00</span></h4>
+                </div>
+                <!-- Botones de acción del carrito -->
+                <div class="cart-actions">
+                    <button class="btn btn-secondary" onclick="clearCart()">Vaciar Carrito</button>
+                    <button class="btn btn-primary" onclick="checkout()">Proceder al Pago</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- MODAL DE DETALLE DE PRODUCTO: Ventana emergente para ver información detallada -->
+    <div id="productModal" class="modal">
+        <div class="modal-content">
+            <!-- Encabezado del modal con botón de cierre -->
+            <div class="modal-header">
+                <span class="close" onclick="closeProductModal()">&times;</span>
+            </div>
+            <div class="modal-body" id="productModalBody">
+                <!-- Los detalles del producto se cargan dinámicamente aquí -->
+            </div>
+        </div>
+    </div>
+
+    <!-- FOOTER: Pie de página con información de la empresa y enlaces -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <!-- Sección de información de la empresa -->
+                <div class="footer-section">
+                    <h3>Fashionista e-Boutique</h3>
+                    <p>Tu destino para la moda femenina exclusiva y elegante.</p>
+                </div>
+                <!-- Sección de enlaces de navegación rápida -->
+                <div class="footer-section">
+                    <h4>Enlaces Rápidos</h4>
+                    <ul>
+                        <li><a href="#" onclick="showHome()">Inicio</a></li>
+                        <li><a href="#" onclick="showCatalog()">Catálogo</a></li>
+                        <li><a href="#" onclick="showContact()">Contacto</a></li>
+                    </ul>
+                </div>
+                <!-- Sección de redes sociales -->
+                <div class="footer-section">
+                    <h4>Síguenos</h4>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
+            <!-- Línea inferior del footer con copyright -->
+            <div class="footer-bottom">
+                <p>&copy; 2024 Fashionista e-Boutique. Todos los derechos reservados.</p>
+            </div>
+    </footer>
+
+    <!-- ARCHIVO JAVASCRIPT: Enlace al archivo principal de funcionalidad -->
+    <script src="scripts/main.js"></script>
+</body>
+</html>

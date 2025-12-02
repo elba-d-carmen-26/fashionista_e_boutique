@@ -1,0 +1,250 @@
+{
+  "runAt": "2025-11-10T02:39:14.479Z",
+  "items": [
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\.env",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-1",
+      "checksum": "84d6c9d4d418f1f695c9d0ae3d0e798434e40be98b07fe34e4c232237644b6ed"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\.env.example",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-2",
+      "checksum": "84d6c9d4d418f1f695c9d0ae3d0e798434e40be98b07fe34e4c232237644b6ed"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\config\\backup-config.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-3",
+      "checksum": "f2f2c0c3f31d8066b056f27119372cccd09f1ef6b3344e953e68035cbee4e11e"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\env",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-4",
+      "checksum": "84d6c9d4d418f1f695c9d0ae3d0e798434e40be98b07fe34e4c232237644b6ed"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\examples\\configuracion-basica.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-5",
+      "checksum": "d47d4739b4aa34392aa1d77c5bb04d24230204f36df6e27895b727c6b16747a8"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\examples\\configuracion-empresarial.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-6",
+      "checksum": "8f79c7c57d9e3d275edce206991d6b72bdc072e983cd6f8af006571aad1f5ead"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\examples\\scripts-documents.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-7",
+      "checksum": "e84abc083e02e15b40133c81a8e04aa1bf097aa6f31a061225651bf890c354df"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\logs\\backup-2025-11-09.log",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-8",
+      "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\src\\BackupEngine.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-9",
+      "checksum": "a7b7b66eb955c5c8f01d644c4d42260e83ec70a7a7fe728105b362d97f932b9f"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\src\\BackupScheduler.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-10",
+      "checksum": "c9bfc53cab77ed24dea11d684abdc234c2fb7b1389b22a235aa4ce46b97df4fb"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\src\\StorageManager.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-11",
+      "checksum": "17e826882c988690801be3145ee69548eb48f3c10fce0174406106fcdd0dc343"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-1-.env",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-12",
+      "checksum": "84d6c9d4d418f1f695c9d0ae3d0e798434e40be98b07fe34e4c232237644b6ed"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-10-BackupScheduler.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-13",
+      "checksum": "c9bfc53cab77ed24dea11d684abdc234c2fb7b1389b22a235aa4ce46b97df4fb"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-11-StorageManager.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-14",
+      "checksum": "17e826882c988690801be3145ee69548eb48f3c10fce0174406106fcdd0dc343"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-12-docs-backup-report-2025-11-10T02-15-42-550Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-15",
+      "checksum": "b878d089b3a1b62a21d026a6677342f5a024580bbcb31054511e435d14b096b3"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-13-docs-backup-report-2025-11-10T02-18-51-454Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-16",
+      "checksum": "d2275fd8fd6740d5e1d4b5b44d913f5684abd09ccfab70743798f15d85604f92"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-14-docs-backup-report-2025-11-10T02-20-48-383Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-17",
+      "checksum": "310c760665038c9d7fc0be2f719fea884aee8baf3d955843af3c108e5fcc1edf"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-15-docs-backup-report-2025-11-10T02-22-30-648Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-18",
+      "checksum": "2e3bc207bf97cdef86f7f89509ca1e3ac87dd35f95d3108a188d29860cfa72dc"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-16-docs-backup-report-2025-11-10T02-25-23-395Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-19",
+      "checksum": "305daa02ff7a2c781a530a18c7d2b12d1985a02d24cb49e8923cf7a7d00ada0b"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-17-docs-backup-report-2025-11-10T02-27-18-980Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-20",
+      "checksum": "20b4c80fc26342a5cf1fc3c3c480a4b85483d47d93c9ee06b82a005270040c80"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-18-docs-backup-report-2025-11-10T02-29-18-141Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-21",
+      "checksum": "d4f786b84b4ba570ae771430dd2b80844c6736afe096cae2bd3e26e6bd69034d"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-19-docs-backup-report-2025-11-10T02-31-52-267Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-22",
+      "checksum": "15944e668b74a87dc23b1d9535668f658ecf6d89a32c6ce78da9d71124c283a3"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-2-.env.example",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-23",
+      "checksum": "84d6c9d4d418f1f695c9d0ae3d0e798434e40be98b07fe34e4c232237644b6ed"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-20-database.md",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-24",
+      "checksum": "dae6781ff2fd14267bd2853161c35eb5a6f9347169b3d7da76a214f02fb2bf45"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-21-Checkout.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-25",
+      "checksum": "c6b0b5c9e1593a0d667182dc567776b1aaabf30bbba316abb0284053d4efceaa"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-22-Products.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-26",
+      "checksum": "6273161af18d8ed8dca3a1d3b716cee09b49e74b6e7b76b2e62514bc3d9a3458"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-23-Search.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-27",
+      "checksum": "f33250016829d6c5a8a3a529a89f3729b36b6842890a378b1465d1a243d7097c"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-3-backup-config.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-28",
+      "checksum": "fb84999833d56d415460135f1092bc9e74d6ece9ab33da8ba29f00c30e1a8738"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-4-env",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-29",
+      "checksum": "84d6c9d4d418f1f695c9d0ae3d0e798434e40be98b07fe34e4c232237644b6ed"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-5-configuracion-basica.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-30",
+      "checksum": "d47d4739b4aa34392aa1d77c5bb04d24230204f36df6e27895b727c6b16747a8"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-6-configuracion-empresarial.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-31",
+      "checksum": "8f79c7c57d9e3d275edce206991d6b72bdc072e983cd6f8af006571aad1f5ead"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-7-scripts-documents.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-32",
+      "checksum": "e84abc083e02e15b40133c81a8e04aa1bf097aa6f31a061225651bf890c354df"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-8-backup-2025-11-09.log",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-33",
+      "checksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\docs-inc-2025-11-10T02-35-01-017Z-9-BackupEngine.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-34",
+      "checksum": "a7b7b66eb955c5c8f01d644c4d42260e83ec70a7a7fe728105b362d97f932b9f"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-15-42-550Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-35",
+      "checksum": "b878d089b3a1b62a21d026a6677342f5a024580bbcb31054511e435d14b096b3"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-18-51-454Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-36",
+      "checksum": "d2275fd8fd6740d5e1d4b5b44d913f5684abd09ccfab70743798f15d85604f92"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-20-48-383Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-37",
+      "checksum": "310c760665038c9d7fc0be2f719fea884aee8baf3d955843af3c108e5fcc1edf"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-22-30-648Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-38",
+      "checksum": "2e3bc207bf97cdef86f7f89509ca1e3ac87dd35f95d3108a188d29860cfa72dc"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-25-23-395Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-39",
+      "checksum": "305daa02ff7a2c781a530a18c7d2b12d1985a02d24cb49e8923cf7a7d00ada0b"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-27-18-980Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-40",
+      "checksum": "20b4c80fc26342a5cf1fc3c3c480a4b85483d47d93c9ee06b82a005270040c80"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-29-18-141Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-41",
+      "checksum": "d4f786b84b4ba570ae771430dd2b80844c6736afe096cae2bd3e26e6bd69034d"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-31-52-267Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-42",
+      "checksum": "15944e668b74a87dc23b1d9535668f658ecf6d89a32c6ce78da9d71124c283a3"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-35-01-017Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-43",
+      "checksum": "de03cc5125f2a39caaf7e91eaa1ade27e8bb0f5f38769af5550b24e9e5c760d4"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-37-32-305Z.json",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-44",
+      "checksum": "336f9b9e5ab68a9a37b80e859f925204f5243ae17049ba121c965c76963ce6d3"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\docs\\database.md",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-45",
+      "checksum": "dae6781ff2fd14267bd2853161c35eb5a6f9347169b3d7da76a214f02fb2bf45"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\frontend\\src\\pages\\Checkout.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-46",
+      "checksum": "c6b0b5c9e1593a0d667182dc567776b1aaabf30bbba316abb0284053d4efceaa"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\frontend\\src\\pages\\Products.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-47",
+      "checksum": "6273161af18d8ed8dca3a1d3b716cee09b49e74b6e7b76b2e62514bc3d9a3458"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\frontend\\src\\pages\\Search.js",
+      "backupId": "docs-inc-2025-11-10T02-39-14-479Z-48",
+      "checksum": "f33250016829d6c5a8a3a529a89f3729b36b6842890a378b1465d1a243d7097c"
+    }
+  ],
+  "summary": {
+    "total": 48,
+    "backedUp": 48,
+    "errors": 0
+  }
+}

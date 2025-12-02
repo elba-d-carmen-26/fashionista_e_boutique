@@ -1,0 +1,122 @@
+{
+  "runAt": "2025-11-08T02:52:03.849Z",
+  "items": [
+    {
+      "file": "backup\\.env",
+      "modifiedAt": "2025-11-08T01:52:26.290Z",
+      "backupId": "docs-inc-2025-11-08T02-52-03-844Z-1",
+      "originalChecksum": "3cd19616e0838e4b2fc7ac2675a270dcbf4cb131188e798d29a79f3abbb15667",
+      "store": null,
+      "restore": null,
+      "validated": false,
+      "restored": false,
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "backup\\logs\\backup-2025-11-07.log",
+      "modifiedAt": "2025-11-08T02:52:03.820Z",
+      "backupId": "docs-inc-2025-11-08T02-52-03-844Z-2",
+      "originalChecksum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "store": null,
+      "restore": null,
+      "validated": false,
+      "restored": false,
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "backup\\package-lock.json",
+      "modifiedAt": "2025-11-08T01:57:48.541Z",
+      "backupId": "docs-inc-2025-11-08T02-52-03-844Z-3",
+      "originalChecksum": "d16cdac0ffb49da1f4e578b27f7a7f091929018ef3c11ff9fb52cda058a70872",
+      "store": null,
+      "restore": null,
+      "validated": false,
+      "restored": false,
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "backup\\package.json",
+      "modifiedAt": "2025-11-08T01:57:48.359Z",
+      "backupId": "docs-inc-2025-11-08T02-52-03-844Z-4",
+      "originalChecksum": "738295b52afb6751152d4aa2aa62ccd9a6efd54d34dec810e066f12f29048ba5",
+      "store": null,
+      "restore": null,
+      "validated": false,
+      "restored": false,
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "backup\\scripts\\test-docs-backup.js",
+      "modifiedAt": "2025-11-08T02:51:43.152Z",
+      "backupId": "docs-inc-2025-11-08T02-52-03-844Z-5",
+      "originalChecksum": "540e21b6af18a1deb0e99dab80c24e4835fe07b998a9e56874140e8dc99eb568",
+      "store": null,
+      "restore": null,
+      "validated": false,
+      "restored": false,
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "backup\\src\\BackupEngine.js",
+      "modifiedAt": "2025-11-08T02:19:31.670Z",
+      "backupId": "docs-inc-2025-11-08T02-52-03-844Z-6",
+      "originalChecksum": "a68e7e6371105ace4abd6f3be730f39e67208254fca1a315711fe96a745ccfa7",
+      "store": null,
+      "restore": null,
+      "validated": false,
+      "restored": false,
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "backup\\src\\BackupScheduler.js",
+      "modifiedAt": "2025-11-08T02:21:26.645Z",
+      "backupId": "docs-inc-2025-11-08T02-52-03-844Z-7",
+      "originalChecksum": "b60ecb9bcf1976380ee5f157cd5c9a19a93263e271917f446ac3afc7c3ad88c7",
+      "store": null,
+      "restore": null,
+      "validated": false,
+      "restored": false,
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "backup\\src\\IntegrityChecker.js",
+      "modifiedAt": "2025-11-08T02:33:59.761Z",
+      "backupId": "docs-inc-2025-11-08T02-52-03-844Z-8",
+      "originalChecksum": "c1c4dcd50250c32cafb899522d490be8c8d8435065027d9e0c094bf7ef4ba9ef",
+      "store": null,
+      "restore": null,
+      "validated": false,
+      "restored": false,
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "backup\\src\\NotificationService.js",
+      "modifiedAt": "2025-11-08T02:36:45.907Z",
+      "backupId": "docs-inc-2025-11-08T02-52-03-844Z-9",
+      "originalChecksum": "6b2a485940e00d06e32113aa674bdd996c11fd692247dcc91c4ac9db82a79f72",
+      "store": null,
+      "restore": null,
+      "validated": false,
+      "restored": false,
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "backup\\src\\StorageManager.js",
+      "modifiedAt": "2025-11-08T02:43:04.179Z",
+      "backupId": "docs-inc-2025-11-08T02-52-03-844Z-10",
+      "originalChecksum": "ea9778273f0029defce5d8af44c0953c15e718233a3d34b11dca1c75ab9f693a",
+      "store": null,
+      "restore": null,
+      "validated": false,
+      "restored": false,
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    }
+  ],
+  "summary": {
+    "total": 10,
+    "backedUp": 0,
+    "validated": 0,
+    "restored": 0,
+    "errors": 10
+  }
+}

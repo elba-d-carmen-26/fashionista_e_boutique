@@ -1,0 +1,86 @@
+{
+  "runAt": "2025-11-10T02:25:23.396Z",
+  "items": [
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\.env",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\.env.example",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\config\\backup-config.js",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\env",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\examples\\configuracion-basica.js",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\examples\\configuracion-empresarial.js",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\examples\\scripts-documents.js",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\logs\\backup-2025-11-09.log",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\src\\BackupEngine.js",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\src\\BackupScheduler.js",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\src\\StorageManager.js",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-15-42-550Z.json",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-18-51-454Z.json",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-20-48-383Z.json",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backups\\reports\\docs-backup-report-2025-11-10T02-22-30-648Z.json",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\docs\\database.md",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\frontend\\src\\pages\\Checkout.js",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\frontend\\src\\pages\\Products.js",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\frontend\\src\\pages\\Search.js",
+      "error": "Cannot read properties of undefined (reading 'storage')"
+    }
+  ],
+  "summary": {
+    "total": 19,
+    "backedUp": 0,
+    "errors": 19
+  }
+}

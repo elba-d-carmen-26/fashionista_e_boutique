@@ -1,0 +1,70 @@
+{
+  "runAt": "2025-11-10T02:15:42.551Z",
+  "items": [
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\.env",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\.env.example",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\config\\backup-config.js",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\env",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\examples\\configuracion-basica.js",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\examples\\configuracion-empresarial.js",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\examples\\scripts-documents.js",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\logs\\backup-2025-11-09.log",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\src\\BackupEngine.js",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\src\\BackupScheduler.js",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\backup\\src\\StorageManager.js",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\docs\\database.md",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\frontend\\src\\pages\\Checkout.js",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\frontend\\src\\pages\\Products.js",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    },
+    {
+      "file": "C:\\Users\\elbad\\OneDrive\\Documents\\Fashionista eBoutique\\frontend\\src\\pages\\Search.js",
+      "error": "The \"path\" argument must be of type string. Received undefined"
+    }
+  ],
+  "summary": {
+    "total": 15,
+    "backedUp": 0,
+    "errors": 15
+  }
+}
